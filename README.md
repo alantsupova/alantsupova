@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there. I`m Sasha
+- - -
+##### St. Petersburg State University student and beginner flutter developer
+---------------------------------------
+**Contacts:**
+ - Email aleksaantsupova@yandex.ru
+ - Telegram @alya_antsupova
 
 <!--
 **alantsupova/alantsupova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
