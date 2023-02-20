@@ -1,6 +1,6 @@
 ### Hi there. I`m Sasha
 - - -
-##### St. Petersburg State University student and beginner flutter developer
+##### St. Petersburg State University student and beginner developer
 ---------------------------------------
 **Contacts:**
  - Email aleksaantsupova@yandex.ru
